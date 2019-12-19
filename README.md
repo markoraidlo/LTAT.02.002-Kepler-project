@@ -3,10 +3,10 @@ Train machine learning algorithms to detect transitions of exoplanets using ligh
 
 Using data from: https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data
 
-Main project file: src/Project M9.ipynb
-Poster file: M9_poster.pdf
-Editable poster file: M9_poster.pptx
-Initial project report: M9_report.pdf
+Main project file: src/Project M9.ipynb  
+Poster file: M9_poster.pdf  
+Editable poster file: M9_poster.pptx  
+Initial project report: M9_report.pdf  
 Project readme: README.md
 
 Prerequisites to run it: Python 3, Jupyter Notebook, matplotlib, seaborn, pandas, numpy, sklearn, tensorflow, keras.  

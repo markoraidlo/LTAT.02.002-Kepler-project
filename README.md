@@ -9,7 +9,7 @@ Editable poster file: M9_poster.pptx
 Initial project report: M9_report.pdf  
 Project readme: README.md
 
-Prerequisites to run it: Python 3, Jupyter Notebook, matplotlib, seaborn, pandas, numpy, sklearn, tensorflow, keras.  
+Prerequisites to run it: Python 3, Jupyter Notebook, matplotlib, seaborn, pandas, numpy, sklearn, tensorflow, keras, imblearn.  
 You also will need to have downloaded the data and unzipped the .csv files into the src/ directory.
 
 Run it as any other notebook.  
@@ -32,12 +32,13 @@ We will go through the file cell by cell and briefly explain what is going on.
 13. Makes and evaluates a decision tree model.
 14. Makes and evaluates a random forest model.
 15. Makes and evaluates a gradient boost model.
-16. Imports for using neural networks.
-17. Changing the data to numpy arrays.
-18. Adding another feature to satisfy convolution layer constraints.
-19. Writing a generator for the data which helps balance input.
-20. Builds CNN layer by layer.
-21. Compiles the network.
-22. Fits the network to the data.
-23. Defines a simple evaluation function for ANNs.
-24. Evaluates the network.
+16. Over sampling with SMOTE and evaluation with random forest model.
+17. Imports for using neural networks.
+18. Changing the data to numpy arrays.
+19. Adding another feature to satisfy convolution layer constraints.
+20. Writing a generator for the data which helps balance input.
+21. Builds CNN layer by layer.
+22. Compiles the network.
+23. Fits the network to the data.
+24. Defines a simple evaluation function for ANNs.
+25. Evaluates the network.
